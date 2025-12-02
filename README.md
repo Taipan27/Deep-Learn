@@ -1,1 +1,1 @@
-Deep Neural Network Technology Labs
+ТехнологииГлубокихНейросетей_Маркин
