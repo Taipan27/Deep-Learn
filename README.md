@@ -1,1 +1,1 @@
-Лабораторные работы Технологии Глубоких Нейросетей
+Deep Neural Network Technology Labs
